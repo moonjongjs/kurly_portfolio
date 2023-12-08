@@ -1,0 +1,129 @@
+[33mcommit 0c2e47d217dc978d930410bdc76752a05cc729a3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: cb35201 033d02b
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 15:06:23 2023 +0900
+
+    Merge pull request #5 from moonjongjs/jeung
+    
+    file add
+
+[33mcommit 033d02b7a93d4c4c9aea5be3900267de7d46a07e[m
+Author: jeungla1303 <jeungla1303@gmail.com>
+Date:   Fri Dec 8 15:04:37 2023 +0900
+
+    file add
+
+[33mcommit cb3520179ecbfbe80a5c73071ca3fd3b3685a305[m
+Merge: 0646e39 ba79368
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 14:14:06 2023 +0900
+
+    Merge pull request #4 from moonjongjs/member1
+    
+    내용추가
+
+[33mcommit ba79368241ee40e4d80b8903ee8f920479707d2a[m
+Merge: a379f0b 0646e39
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 14:13:54 2023 +0900
+
+    Merge branch 'master' into member1
+
+[33mcommit a379f0ba180556ffa70de64de41a5f2a0626ed5a[m
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 14:09:52 2023 +0900
+
+    내용 확인다시 푸쉬하기
+
+[33mcommit 0646e395a0658c0cd858e71ddd9cd7a95ce3ef82[m
+Merge: 6f7f497 fa455c0
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 14:03:24 2023 +0900
+
+    Merge pull request #3 from moonjongjs/member2
+    
+    내용추가
+
+[33mcommit 72ee45382f39457e0d17d0e914a6f117ec936221[m
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 14:01:24 2023 +0900
+
+    내용추가
+
+[33mcommit fa455c0aa06d0201b2a45868b97031f9c836daa5[m
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 14:00:19 2023 +0900
+
+    내용추가
+
+[33mcommit 6f7f497e8e0c87a502acc1f6088ab181f454b642[m
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 12:35:35 2023 +0900
+
+    내용추가
+
+[33mcommit b1c20430e94e3d4ec907754d1786bb3631658532[m
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 12:33:49 2023 +0900
+
+    file 추가
+
+[33mcommit 6ca0b6b47f0ed7bd05afb44af7af7919e6ec9022[m
+Merge: 8b3d01d f88f85d
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 12:25:36 2023 +0900
+
+    Merge pull request #2 from moonjongjs/love
+    
+    love 브랜치 파일추가
+
+[33mcommit f88f85dce344ba73f07f3929f336bdc9e7076182[m
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 12:24:05 2023 +0900
+
+    love 브랜치 파일추가
+
+[33mcommit 8b3d01d9ab23628ac0571c69d29682e763ca5a06[m
+Merge: 69101cf a472b18
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 12:17:46 2023 +0900
+
+    Merge pull request #1 from moonjongjs/love
+    
+    love 브랜치(Branch) 에서 add, commit, push
+
+[33mcommit a472b18d5a656ab8c38f5acaf1bf009f130b9fc9[m
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 12:14:56 2023 +0900
+
+    love 브랜치(Branch) 에서 add, commit, push
+
+[33mcommit 69101cf1b6c458f1fc5e5a7f2a1cd11109433641[m
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 12:02:06 2023 +0900
+
+    교실에서 클론 실행 네용추가
+
+[33mcommit 023b728770b69cc19928f08f4619ef8f6282e0c6[m
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 11:20:26 2023 +0900
+
+    git log  --oneline
+
+[33mcommit 91f18857b308c7b099ab700d06a5a46bc13485c4[m
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 11:16:20 2023 +0900
+
+    두번째 프로젝트 업로드
+
+[33mcommit 08598fe040ffca9a96a37c060fee490d6d682983[m
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 11:12:47 2023 +0900
+
+    처음 프로젝트 업로드
+
+[33mcommit 8e998d2ed3c0ce7aa5257396e30fd00e70629982[m
+Author: moonjongjs <moonseonjong@naver.com>
+Date:   Fri Dec 8 11:00:56 2023 +0900
+
+    처음 프로젝트 업로드
